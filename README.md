@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @fatherofour
-- 👀 I’m interested in UI/UX design, software engineering and cybersecurity
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on all kinds of project
-- 📫 How to reach me  https://twitter.com/AgbaMayowa?t=f1WtBdB0K3UE4CEGcSCopw&s=09 , https://wa.me/qr/OWKGAG3E37K6E1
+I’m an IT & Security Analyst with hands-on experience in server setup, system administration, and security operations. My work focuses on building reliable infrastructure and securing it using industry best practices.
 
-<!---
-fatherofour/fatherofour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy designing and implementing secure systems — from Linux and Windows servers to web and API-based applications — with a strong emphasis on hardening, monitoring, and governance.
+
+I hold the CompTIA Security+ certification and I’m actively building security-focused technical solutions and homelabs.
+
+**What You’ll Find Here**
+- Secure Linux & Windows server setups
+- Active Directory deployment and security hardening
+- Web and API security implementations
+- Logging, monitoring, and incident response labs
+- Infrastructure and cloud security fundamentals
+- Technical security solutions to real-world problems
+- Secure coding review checklists and remediation examples

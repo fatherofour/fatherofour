@@ -10,5 +10,4 @@ I hold the CompTIA Security+ certification and I’m actively building security-
 - Web and API security implementations
 - Logging, monitoring, and incident response labs
 - Infrastructure and cloud security fundamentals
-- Technical security solutions to real-world problems
 - Secure coding review checklists and remediation examples
